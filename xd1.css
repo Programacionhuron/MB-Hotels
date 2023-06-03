@@ -1,0 +1,26 @@
+header{
+    background-color:navajowhite;
+}
+
+body{
+    margin: 0%;
+    position: relative;
+}
+
+main{
+    background-color:moccasin;
+}
+
+html{
+    background-color: moccasin;
+}
+
+
+.centrado{
+
+    text-align: center;
+    text-decoration: dotted;
+    font-size: 25px;
+
+
+}

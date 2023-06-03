@@ -1,0 +1,47 @@
+header{
+    background-color:navajowhite;
+}
+
+body{
+    margin: 0%;
+    position: relative;
+}
+
+main{
+    background-color:moccasin;
+}
+
+html{
+    background-color: moccasin;
+}
+
+
+.centrado{
+
+    justify-content: center;
+    text-align: center;
+    font-size: 40px
+
+}
+
+.grande{
+
+    font-size:large;
+    text-align: center;
+    font-size: 30px;
+
+}
+
+.inicio-p{
+
+    text-align: left;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.abba{
+
+    font-style: italic;
+    font-size: 25px;
+}
