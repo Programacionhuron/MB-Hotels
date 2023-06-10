@@ -45,3 +45,11 @@ html{
     font-style: italic;
     font-size: 25px;
 }
+
+.boton{
+    text-decoration: none;
+}
+
+.boton:hover{
+    text-size: 20px
+}
