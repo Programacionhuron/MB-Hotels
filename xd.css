@@ -24,6 +24,33 @@ html{
 
 }
 
+
+
+@media (max-width: 767px) {
+	span{ 
+	    font-size: 20px; 
+	    
+	}
+	
+	input{ 
+	    max-width: 100px; 
+	    
+	}
+	
+	header{
+		flex-direction: column;
+		align-items: center;
+	}
+	.articles {
+	    flex-direction: column;
+		align-items: center;
+	}
+	
+	.card{ 
+		width: 50%; 
+		padding-bottom: 10px; 
+	}
+}
 .grande{
 
     font-size:large;
